@@ -118,7 +118,6 @@ public class Task {
             }
         }
 
-
         while (!evenQueue.isEmpty()) {
             queue.add(evenQueue.remove());
         }
